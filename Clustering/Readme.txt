@@ -1,0 +1,4 @@
+In this project, we have worked on the clustering problem on the gutenberg dataset. We chose five different books from the dataset and worked on them.
+We worked through a pipeline that consists of the following steps, First by partitioning the data into 200 partitions each of length 150 for each class. Second, by trying different types of feature engineering and seeing the effect of each type on the final results.
+Third, by detecting the number of clusters by using different methods and then deciding manually by the information we got. We have also tried different clustering algorithms and investigated their different performances.
+In the last step, we have tried different levels of evaluations, the first one numerically by calculating different kinds of matrices. Secondly, by comparing the human labels to the cluster labels and thirdly by going more in depth to investigate the cause of the error and in which parts the machine threw off.
