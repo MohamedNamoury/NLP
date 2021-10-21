@@ -4,3 +4,4 @@ expert people. Over 100 million people visit Quora every month, and due to that 
 number of users ask answers that are already asked and this blocks them from seeing the
 quality answers on the old posts and also blocks other users from seeing new questions
 every day.
+Dataset can be found here: https://www.kaggle.com/c/quora-question-pairs/data
